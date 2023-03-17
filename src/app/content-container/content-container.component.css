@@ -1,0 +1,6 @@
+.content-container{
+  background-color: var(--light-level-3);
+}
+.content-container .row .col-12{
+  padding: 2px 8px;
+}
